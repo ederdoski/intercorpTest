@@ -8,6 +8,8 @@ Proyecto de prueba, que muestra un login a travez de numero de telefono contra f
 
 ## Observaciones
 
+* La arquitectura usada para el proyecto es MVVM 
+
 * Si intentas loguearte con un número de telefono distinto al que estas usando con el telefono actual puedes colocar el codigo que te envio firebase en la seccion Problemas para iniciar sesion y si el codigo es correcto podras iniciar sesion, esto es util por si estas haciendo la prueba en un telefono sin simcard o en un emulador.
 
 * Habilite la opcion de cerrar sesion en el menu para que pueda probarse el login con diferentes numeros.
