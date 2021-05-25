@@ -1,0 +1,67 @@
+<resources>
+    <string name="app_name">Intercorp</string>
+    <string name="action_settings">Settings</string>
+
+    <!-- Dialogs -->
+
+    <string name="txt_null"></string>
+    <string name="txt_atention">Atención…!</string>
+    <string name="txt_ups">ups…!</string>
+    <string name="txt_loading">Cargando</string>
+    <string name="txt_success">Operación Exitosa</string>
+    <string name="txt_register_success">Por favor verifique su correo y siga las instrucciones para activar su cuenta</string>
+
+    <!-- Buttons -->
+
+    <string name="btn_save">Guardar</string>
+    <string name="btn_ok">OK</string>
+    <string name="btn_accept">Aceptar</string>
+    <string name="btn_cancel">Cancelar</string>
+    <string name="btn_yes">SI</string>
+    <string name="btn_no">NO</string>
+    <string name="btn_send">Enviar</string>
+
+    <!-- Menu -->
+
+    <string name="txt_opt_1">Registrar Clientes</string>
+    <string name="txt_opt_2">Ver Clientes</string>
+    <string name="txt_opt_3">Cerrar sesión</string>
+
+    <!-- HistoryClient -->
+
+    <string name="txt_name">Nombre: %1$s</string>
+    <string name="txt_lastname">Apellido: %1$s</string>
+    <string name="txt_age">Edad: %1$s</string>
+    <string name="txt_birthdate">Fecha de nacimiento: %1$s</string>
+
+
+    <!-- AddClient -->
+
+    <string name="txt_client_register">Registro de Clientes</string>
+    <string name="txt_client_history">Historial de Clientes</string>
+    <string name="btn_register">Registrar</string>
+    <string name="edt_hint_name">Nombre</string>
+    <string name="edt_hint_lastname">Apellido</string>
+    <string name="edt_hint_age">Edad</string>
+    <string name="edt_hint_birthday">Fecha de nacimiento</string>
+    <string name="txt_client_saved">Cliente guardado exitosamente</string>
+
+    <!-- Login -->
+
+    <string name="hint_phone_number">Número de telefono</string>
+    <string name="txt_login_instruction">Para acceder a nuestra app te pedimos ingreses tu número de telefono y sigas los pasos a continuación</string>
+    <string name="txt_login_problem">¿Problemas para iniciar sesión?</string>
+    <string name="txt_wait_login">Espere un momento mientras verificamos su codigo de seguridad</string>
+    <string name="btn_login">Iniciar Sesión</string>
+    <string name="btn_token_send">Codigo enviado exitosamente</string>
+    <string name="dialog_token_login">Introduzca el codigo que recibio a travez de mensaje de texto</string>
+
+    <!-- Errores -->
+
+    <string name="txt_error_login">Debe introducir un número de telefono valido</string>
+    <string name="txt_error_invalid_request">Solicitud Invalida</string>
+    <string name="txt_error_sms_quote">Solicitudes Excedidas</string>
+    <string name="txt_error_input_dialog_token_short">Codigo invalido</string>
+    <string name="txt_error_empty_fields">Uno o mas campos estan incompletos</string>
+
+</resources>

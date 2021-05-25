@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "69006248353",
+    "project_id": "intercorptest-86242",
+    "storage_bucket": "intercorptest-86242.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:69006248353:android:020f000502b51f3e89a3e0",
+        "android_client_info": {
+          "package_name": "com.adrenastudies.intercorptest"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "69006248353-32qa37f19jpvm56dudq0e53eq4nhrbvf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBwIp69XkD2zxhkbxE7UGJ0wSQBT1vr0vU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "69006248353-32qa37f19jpvm56dudq0e53eq4nhrbvf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
