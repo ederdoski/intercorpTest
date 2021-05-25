@@ -1,6 +1,6 @@
 # intercorpTest
 
-![Example](img/Example.jpg) ______ ![Example2](img/Example_2.jpg) ______ ![Example3](img/Example_3.jpg) 
+![Example](img/Example.jpg) ![Example2](img/Example2.jpg) ![Example3](img/Example3.jpg) 
 
 ## Introducción
 
