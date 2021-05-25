@@ -14,6 +14,8 @@ Proyecto de prueba, que muestra un login a travez de numero de telefono contra f
 
 * Habilite una opcion de Ver Clientes, para poder verificar que el guardado en la Base de datos se hacia correctamente
 
+* El número de telefono con el que hice las pruebas es de Argentina, supongo que servira para otros paises sin problema (aunque no lo puede verificar)
+
 ## Autor
 
 * **Edermar Dominguez** - [Ederdoski](https://gitlab.com/Ederdoski/about)
