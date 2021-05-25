@@ -18,6 +18,8 @@ Proyecto de prueba, que muestra un login a travez de numero de telefono contra f
 
 * El número de telefono con el que hice las pruebas es de Argentina, supongo que servira para otros paises sin problema (aunque no lo puede verificar)
 
+## APK
+
 [APK Release](https://github.com/ederdoski/intercorpTest/tree/main/app/release)
 
 ## Autor
